@@ -1,0 +1,12 @@
+(a) Classe é um conjunto das descrições das propriedades e comportamento de objetos com características similares.
+Objeto é a abstração de um objeto real existente.
+
+(b) É um método que serve para definir o comportamento do objeto de uma classe no momento da sua criação.
+Pode ser utilizado para zerar os atributos de um objeto ou atribuir valor aos mesmos.
+
+(c) - Permite restringir o acesso a variáveis e métodos da classe, garantindo uma maior segurança;
+- evita quebra de integridade dos dados, minimizando os erros;
+- facilita a atualização do código.
+- Exemplo: um banco não gostaria que seu usuário pudesse modificar 
+diretamente valores na sua conta, para que isso não ocorra, coloca-se os atributos de valores no private, assim, 
+somente o banco mudaria os valores de acordo com as transações do cliente.
